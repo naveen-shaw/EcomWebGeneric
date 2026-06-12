@@ -13,7 +13,7 @@ const Newsletter = () => {
   };
 
   return (
-    <section className="py-16 bg-gray-50">
+    <section className="px-4 py-16 bg-gray-50">
       <div className="container-custom max-w-2xl text-center">
         <h2 className="text-2xl md:text-3xl font-bold tracking-tight mb-2">SIGNUP & GET 10% OFF</h2>
         <p className="text-gray-500 mb-6">on your first order</p>
