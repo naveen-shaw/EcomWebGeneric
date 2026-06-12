@@ -3,7 +3,7 @@ import Button from '../common/Button';
 
 const Hero = () => {
   return (
-    <section className="relative min-h-[80vh] flex items-center bg-gradient-to-r from-gray-50 to-white">
+    <section className="relative min-h-[80vh] flex items-center bg-gradient-to-r from-gray-50 to-white px-4">
       <div className="container-custom">
         <div className="max-w-2xl">
           <span className="text-sm font-semibold tracking-wider text-gray-500">NEW COLLECTION</span>

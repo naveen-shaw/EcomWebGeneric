@@ -34,7 +34,7 @@ const NewArrivals = () => {
   };
 
   return (
-    <section className="py-16 bg-gray-50">
+    <section className="py-16 bg-gray-50 px-4">
       <div className="container-custom">
         <SectionHeading title="NEW ARRIVALS" viewAllLink="/newarrivals" />
         

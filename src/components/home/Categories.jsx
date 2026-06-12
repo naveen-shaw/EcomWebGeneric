@@ -10,7 +10,7 @@ const categories = [
 
 const Categories = () => {
   return (
-    <section className="py-16">
+    <section className="py-16 px-4">
       <div className="container-custom">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {categories.map((category, index) => (
